@@ -1,3 +1,5 @@
-# Breast-Cancer-Model
+# Breast Cancer Detection
 
-<img src='weatherapp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+A machine learning model for detecting breast cancer.
+
+<img src='cancer.jfif' title='image breast cancer' width='' alt='image breast cancer' />
