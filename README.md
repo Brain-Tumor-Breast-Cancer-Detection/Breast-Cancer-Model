@@ -1,5 +1,5 @@
 # Breast Cancer Detection
 
-A machine learning model for detecting breast cancer.
+A Deep Learning model to detect breast cancer.
 
 <img src='cancer.jfif' title='image breast cancer' width='' alt='image breast cancer' />
